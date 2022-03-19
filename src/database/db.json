@@ -1,0 +1,32 @@
+{
+  "employee": [
+    {
+      "name": "Sonia Tariq",
+      "fatherName": "Tariq Mehmood",
+      "eMail": "soniapari1@gmail.com",
+      "adress": "Faisalabad, Pakistan",
+      "id": "mYKmhho"
+    },
+    {
+      "name": "Mir Hadi",
+      "fatherName": "Hadi",
+      "eMail": "hadimir4@outlook.com",
+      "adress": "Karachi, Pakistan",
+      "id": "-NeaMZP"
+    },
+    {
+      "name": "Abu Bakar",
+      "fatherName": "Ahmed ",
+      "eMail": "abubaker322@gmail.com",
+      "adress": "Karachi, Pakistan",
+      "id": "kWgOtzB"
+    },
+    {
+      "name": "john",
+      "fatherName": "wick",
+      "eMail": "john1@msn.com",
+      "adress": "London",
+      "id": "O14cSII"
+    }
+  ]
+}

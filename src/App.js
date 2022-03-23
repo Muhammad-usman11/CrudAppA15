@@ -11,7 +11,10 @@ import NotFound from "./myComponents/NotFound";
 import UpdateUser from "./myComponents/UpdateUser";
 
 const navigation ={
-  padding:'20px'
+  padding:'20px',
+  textDecoration:'none',
+  fontSize:'25px',
+  color:'blue'
 }
 
 function App() {
@@ -20,7 +23,7 @@ function App() {
       <BrowserRouter>
       <NavLink style={navigation} to={"/"} >Home</NavLink>
       <NavLink style={navigation} to={"/all"} >ALL User</NavLink>
-      <NavLink style={navigation} to={"/add"} >Add User</NavLink>
+      
         
       <Routes>
         <Route path="/" element={<Home/>} />

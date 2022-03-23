@@ -10,7 +10,7 @@ import { useNavigate } from "react-router-dom";
 
 // design/styling
 const formGroup = {
-  width:'50vw',
+  width:'30vw',
   margin:'40px 0px 0px 0px'
 }
 const formControl = {
@@ -22,7 +22,7 @@ const button = {
 }
 const typography = {
   fontSize:'25px',
-  color:'black'
+  color:'blue'
 }
 
 const initialValues = {

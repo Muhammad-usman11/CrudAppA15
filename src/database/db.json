@@ -1,13 +1,6 @@
 {
   "employee": [
     {
-      "name": "Sonia Tariq",
-      "fatherName": "Tariq Mehmood",
-      "eMail": "soniapari1@gmail.com",
-      "adress": "Faisalabad, Pakistan",
-      "id": "mYKmhho"
-    },
-    {
       "name": "Mir Hadi",
       "fatherName": "Hadi",
       "eMail": "hadimir4@outlook.com",
@@ -27,6 +20,13 @@
       "eMail": "john1@msn.com",
       "adress": "London",
       "id": "O14cSII"
+    },
+    {
+      "name": "Muhammad Usman",
+      "fatherName": "Akmal Javed",
+      "eMail": "usman77@yahoo.com",
+      "adress": "Islamabad, Pakistan",
+      "id": "12WnVKj"
     }
   ]
 }
